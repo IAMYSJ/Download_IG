@@ -17,7 +17,7 @@ https://www.instagram.com/xxxxxx/
 
 xxxxxx 是 Instagram 帳號
 ### 結果
-會產生一個 Image 資料夾，裡面匯存放下載的照片
+會建立一個 Image 資料夾，裡面存放下載的照片
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/IAMYSJ/Download_IG/blob/master/LICENSE) file for details
